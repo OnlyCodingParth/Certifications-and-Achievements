@@ -18,7 +18,7 @@
 
 ## 🌟 Introduction
 
-![My Hackathon Journey](./Images/01-Starting_Image.png)
+![My Hackathon Journey](06_My_First_Seven_Hackathon\01-Starting_Image.png)
 
 Hackathons have become an important part of my learning journey as a Computer Science Engineering student.
 
@@ -38,7 +38,7 @@ This repository documents my first seven hackathon experiences, including the ac
 
 ### 📌 Applied | Not Shortlisted
 
-![OpenAI Codex Hackathon](./Images/02-OpenAI_Codex_Hackathon.png)
+![OpenAI Codex Hackathon](06_My_First_Seven_Hackathon\02-OpenAI_Codex_Hackathon.png)
 
 ### 📖 About the Hackathon
 
@@ -64,7 +64,7 @@ The experience motivated me to continue improving my programming knowledge and p
 
 ### 📌 Applied | Not Shortlisted
 
-![Anthropic Claude Experience](./Images/03-Anthropic_Claude_Hackathon.png)
+![Anthropic Claude Experience](06_My_First_Seven_Hackathon\03-Anthropic_Claude_Hackathon.png)
 
 ### 📖 About the Experience
 
@@ -90,7 +90,7 @@ As someone interested in Artificial Intelligence and Machine Learning, this oppo
 
 ### 📌 Applied | Not Shortlisted
 
-![Google DeepMind Hackathon](./Images/04-Google_DeepMind_Hackathon.png)
+![Google DeepMind Hackathon](06_My_First_Seven_Hackathon\04-Google_DeepMind_Hackathon.png)
 
 ### 📖 About the Hackathon
 
@@ -116,7 +116,7 @@ The experience strengthened my motivation to continue learning Machine Learning,
 
 ### 📌 Participated | Virtual Round | Idea Submitted
 
-![ISRO Bharatiya Antariksh Hackathon](./Images/05-ISRO_Bharatiya_Antariksh_Hackathon.png)
+![ISRO Bharatiya Antariksh Hackathon](06_My_First_Seven_Hackathon\05-ISRO_Bharatiya_Antariksh_Hackathon.png)
 
 ### 📖 About the Hackathon
 
@@ -140,7 +140,7 @@ This experience encouraged me to explore how computer science and emerging techn
 
 **Certificate of Participation — Bharatiya Antariksh Hackathon 2026**
 
-[📜 View My ISRO Hackathon Certificate](../03-Bharatiya-Antariksh-Hackathon/ISRO-Hackathon_2026.pdf)
+[📜 View My ISRO Hackathon Certificate](03-Bharatiya-Antariksh-Hackathon\ISRO-Hackathon_2026.pdf)
 
 **Outcome:** Participated in Virtual Round | Idea Submitted
 
@@ -150,7 +150,7 @@ This experience encouraged me to explore how computer science and emerging techn
 
 ### 📌 Project Development | Kisan Alert AI
 
-![Build with AI Hackathon](./Images/06Buil_with_AI_Code_for_Communities_Hackathon.png)
+![Build with AI Hackathon](06_My_First_Seven_Hackathon\06-Buil_with_AI_Code_for_Communities_Hackathon.png)
 
 ### 📖 About the Hackathon
 
@@ -191,7 +191,7 @@ To develop an AI-oriented agricultural assistance solution that helps farmers ma
 
 ### 📌 Top 100 Shortlisted | Unable to Attend In Person
 
-![OpenSwarm Build Jam](./Images/07-OpenSwarm_Build_Jam_Hackathon.png)
+![OpenSwarm Build Jam](06_My_First_Seven_Hackathon\07-OpenSwarm_Build_Jam_Hackathon.png)
 
 ### 📖 About the Hackathon
 
@@ -265,7 +265,7 @@ Being shortlisted among the Top 100 for OpenSwarm Build Jam motivated me to cont
 
 # 🎯 The Journey Continues
 
-![The Journey Continues](./Images/08Last_Image.png)
+![The Journey Continues](06_My_First_Seven_Hackathon\08Last_Image.png)
 
 ## Building Beyond Hackathons
 

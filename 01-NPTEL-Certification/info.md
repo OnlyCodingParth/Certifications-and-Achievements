@@ -1,52 +1,110 @@
 # 🎓 NPTEL Certification
 
-## 🏆 Introduction to Python for Data Science
+## 🏆 Python for Data Science
 
 ### 📌 Certification Details
 
-| Information                | Details                                 |
-| -------------------------- | --------------------------------------- |
-| **Course Name**            | Introduction to Python for Data Science |
-| **Certification Platform** | NPTEL                                   |
-| **Course Duration**        | 4 Weeks                                 |
-| **Course Period**          | July – August 2026                      |
-| **Completion Year**        | 2026                                    |
-| **Category**               | Python Programming & Data Science       |
-| **Status**                 | Successfully Completed ✅                |
+| Information                    | Details                           |
+| ------------------------------ | --------------------------------- |
+| **Certificate Holder**         | Parth Sambhaji Gavali             |
+| **Course Name**                | Python for Data Science           |
+| **Certification Organization** | NPTEL                             |
+| **Course Duration**            | 4 Weeks                           |
+| **Course Period**              | July – August 2026                |
+| **Completion Year**            | 2026                              |
+| **Final Score**                | 54%                               |
+| **Assignment Score**           | 19.42/25                          |
+| **Exam Score**                 | 34.5/75                           |
+| **Recommended Credits**        | 2                                 |
+| **Category**                   | Python Programming & Data Science |
+| **Status**                     | Successfully Certified ✅          |
 
 ---
 
 ## 📖 About the Certification
 
-Successfully completed the **4-week NPTEL certification course in Introduction to Python for Data Science (July–August 2026)**.
+Successfully completed the **4-week NPTEL certification course in Python for Data Science (July–August 2026)**.
 
-This course helped me strengthen my foundational understanding of Python programming and its applications in Data Science. It provided valuable knowledge that supports my ongoing learning journey in **Artificial Intelligence (AI), Machine Learning (ML), and Data Science**.
+This certification represents an important milestone in my academic journey as a **Computer Science Engineering student**, strengthening my foundational understanding of Python programming and its relevance to Data Science.
 
-## 🎯 Learning Outcomes
+The course provided an opportunity to develop programming knowledge, improve logical thinking, and explore how Python can be applied to computational and data-oriented problems.
 
-Through this certification, I developed foundational knowledge in:
-
-* **Python Programming:** Understanding basic programming concepts and Python fundamentals.
-* **Data Science Foundations:** Exploring how Python is used in data-related applications.
-* **Problem-Solving:** Improving logical thinking and programming skills.
-* **Computational Thinking:** Developing a structured approach to solving programming problems.
+It also supports my continued learning journey in **Artificial Intelligence (AI), Machine Learning (ML), and Data Science**.
 
 ---
 
-## 🚀 Future Learning Goals
+## 🎯 Key Learning Areas
 
-This certification represents an important step in my journey toward building a strong foundation in **Artificial Intelligence and Machine Learning**.
+The following areas represent the foundational knowledge associated with my Python for Data Science learning journey.
 
-I aim to continue expanding my knowledge through Python programming, data analysis, mathematical foundations, and practical Machine Learning projects.
+### 🐍 1. Python Programming Fundamentals
+
+* Understanding Python programming concepts and syntax.
+* Working with variables, data types, and operators.
+* Exploring conditional statements, loops, and functions.
+* Developing logical thinking and problem-solving skills.
+
+### 📊 2. Introduction to Data Science
+
+* Understanding the role of Python in Data Science.
+* Exploring basic concepts related to data processing.
+* Learning about computational approaches to data-oriented problems.
+* Recognizing the importance of programming in data-driven applications.
+
+### 💻 3. Programming & Problem-Solving
+
+* Applying programming concepts to solve computational problems.
+* Developing structured approaches to writing Python programs.
+* Improving analytical and logical reasoning.
+* Strengthening foundational programming knowledge.
+
+---
+
+## 📈 Certification Performance
+
+| Assessment Component    |      Score |
+| ----------------------- | ---------: |
+| Programming Assignments | 19.42 / 25 |
+| Proctored Examination   |  34.5 / 75 |
+| **Final Score**         |    **54%** |
+
+**Course Duration:** 4 Weeks
+**Recommended Academic Credits:** 2
+
+---
+
+## 💡 Skills & Knowledge
+
+* Python Programming Fundamentals
+* Data Science Foundations
+* Computational Thinking
+* Programming Logic
+* Problem-Solving
+* Analytical Thinking
+
+---
+
+## 🚀 Personal Learning Experience
+
+As a **Computer Science Engineering student** pursuing knowledge in **Artificial Intelligence, Machine Learning, and Data Science**, completing this NPTEL certification has been a valuable part of my technical learning journey.
+
+The course helped me strengthen my understanding of Python programming and encouraged me to continue exploring its applications in modern computing.
+
+My next learning goals include developing stronger Python programming skills, studying mathematical foundations, exploring data analysis libraries such as **NumPy and Pandas**, and gradually progressing toward Machine Learning concepts and practical projects.
+
+This certification represents my commitment to continuous learning, technical improvement, and building a strong foundation for future AI and ML development.
 
 ---
 
 ## 📜 Certificate
 
-**Certificate:** [View NPTEL Certificate](./Introduction-to-Python-for-Data-Science.pdf)
+**Certificate:** [View NPTEL Python for Data Science Certificate](./NPTEL%20certificate%28Introduction-to-python-for-Data-Science%29.pdf)
 
 ---
 
-**Issued by:** NPTEL
-**Year:** 2026
-**Status:** Certified ✅
+**Issued By:** NPTEL
+**Course:** Python for Data Science
+**Course Period:** July – August 2026
+**Duration:** 4 Weeks
+**Final Score:** 54%
+**Status:** Successfully Certified ✅

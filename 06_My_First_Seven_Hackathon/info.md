@@ -1,24 +1,14 @@
-<div align="center">
-
 # 🚀 My First Seven Hackathons
 
 ### Seven Hackathons. Countless Lessons. One Continuous Journey.
-
-![Hackathons](https://img.shields.io/badge/Hackathons-7-blue)
-![Focus](https://img.shields.io/badge/Focus-AI%20%26%20Innovation-purple)
-![Journey](https://img.shields.io/badge/Journey-Continuous%20Learning-green)
 
 **Parth Sambhaji Gavali**
 
 *Computer Science Engineering Student | Exploring AI, ML & Data Science*
 
-</div>
-
 ---
 
 ## 🌟 Introduction
-
-![My Hackathon Journey](06_My_First_Seven_Hackathon\01-Starting_Image.png)
 
 Hackathons have become an important part of my learning journey as a Computer Science Engineering student.
 
@@ -28,7 +18,7 @@ My hackathon journey includes applications, idea submissions, project developmen
 
 Not every application resulted in selection, and not every opportunity led to a completed project. However, each experience contributed to my understanding of innovation, technical challenges, and continuous learning.
 
-This repository documents my first seven hackathon experiences, including the achievements, challenges, and lessons that have shaped my journey.
+This documentation highlights my first six hackathon-related experiences and introduces the next opportunity in my journey.
 
 ---
 
@@ -37,8 +27,6 @@ This repository documents my first seven hackathon experiences, including the ac
 ## 01. OpenAI Codex Community Hackathon — Pune
 
 ### 📌 Applied | Not Shortlisted
-
-![OpenAI Codex Hackathon](06_My_First_Seven_Hackathon\02-OpenAI_Codex_Hackathon.png)
 
 ### 📖 About the Hackathon
 
@@ -64,8 +52,6 @@ The experience motivated me to continue improving my programming knowledge and p
 
 ### 📌 Applied | Not Shortlisted
 
-![Anthropic Claude Experience](06_My_First_Seven_Hackathon\03-Anthropic_Claude_Hackathon.png)
-
 ### 📖 About the Experience
 
 I applied to the **Anthropic Claude Impact Lab in Mumbai**, an opportunity focused on exploring innovative applications of Artificial Intelligence.
@@ -89,8 +75,6 @@ As someone interested in Artificial Intelligence and Machine Learning, this oppo
 ## 03. Google DeepMind Bangalore Hackathon
 
 ### 📌 Applied | Not Shortlisted
-
-![Google DeepMind Hackathon](06_My_First_Seven_Hackathon\04-Google_DeepMind_Hackathon.png)
 
 ### 📖 About the Hackathon
 
@@ -116,8 +100,6 @@ The experience strengthened my motivation to continue learning Machine Learning,
 
 ### 📌 Participated | Virtual Round | Idea Submitted
 
-![ISRO Bharatiya Antariksh Hackathon](06_My_First_Seven_Hackathon\05-ISRO_Bharatiya_Antariksh_Hackathon.png)
-
 ### 📖 About the Hackathon
 
 I participated in the **Bharatiya Antariksh Hackathon 2026**, presented by the **Indian Space Research Organisation (ISRO)**.
@@ -140,8 +122,6 @@ This experience encouraged me to explore how computer science and emerging techn
 
 **Certificate of Participation — Bharatiya Antariksh Hackathon 2026**
 
-[📜 View My ISRO Hackathon Certificate](03-Bharatiya-Antariksh-Hackathon\ISRO-Hackathon_2026.pdf)
-
 **Outcome:** Participated in Virtual Round | Idea Submitted
 
 ---
@@ -149,8 +129,6 @@ This experience encouraged me to explore how computer science and emerging techn
 ## 05. Google Cloud — Build with AI: Code for Communities
 
 ### 📌 Project Development | Kisan Alert AI
-
-![Build with AI Hackathon](06_My_First_Seven_Hackathon\06-Buil_with_AI_Code_for_Communities_Hackathon.png)
 
 ### 📖 About the Hackathon
 
@@ -191,8 +169,6 @@ To develop an AI-oriented agricultural assistance solution that helps farmers ma
 
 ### 📌 Top 100 Shortlisted | Unable to Attend In Person
 
-![OpenSwarm Build Jam](06_My_First_Seven_Hackathon\07-OpenSwarm_Build_Jam_Hackathon.png)
-
 ### 📖 About the Hackathon
 
 Being **shortlisted among the Top 100 for the OpenSwarm Build Jam** was an important milestone in my hackathon journey.
@@ -205,7 +181,7 @@ It strengthened my confidence and motivated me to continue developing my technic
 
 ### 🏆 Achievement
 
-**Shortlisted Among the Top 100 Applicants**
+**Shortlisted Among the Top 100**
 
 ### 🎯 Key Takeaways
 
@@ -265,8 +241,6 @@ Being shortlisted among the Top 100 for OpenSwarm Build Jam motivated me to cont
 
 # 🎯 The Journey Continues
 
-![The Journey Continues](06_My_First_Seven_Hackathon\08Last_Image.png)
-
 ## Building Beyond Hackathons
 
 My journey does not end with these experiences.
@@ -284,7 +258,7 @@ I am continuing to explore new opportunities, strengthen my technical foundation
 ### 🌟 The Beginning
 
 > I didn't collect trophies.  
-> I collected experience.  
+> I collected experience.
 >
 > I didn't build perfect projects.  
 > I built better habits.
@@ -302,8 +276,6 @@ I am continuing to explore new opportunities, strengthen my technical foundation
 *Computer Science Engineering Student*
 
 **Exploring Artificial Intelligence, Machine Learning & Data Science**
-
-[GitHub Profile](https://github.com/OnlyCodingParth)
 
 ---
 

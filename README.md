@@ -58,7 +58,7 @@ The certification represents an important step toward developing the programming
 - Computational Thinking
 - Problem-Solving
 
-### 📂 [View NPTEL Certification](01-NPTEL-Certification\NPTEL certificate(Introduction-to-python-for-Data-Science).pdf)
+### 📂 [View NPTEL Certification](./01-NPTEL-Certification/)
 
 ---
 
